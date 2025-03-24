@@ -37,3 +37,12 @@ Instead of loading tags in the browser where they are free to do what they like,
 
 ### Permissions and security
 
+- Use the lowest permission possible
+
+### Create account and containers
+
+- Script for header
+- Script for body
+
+### Install GTM
+
